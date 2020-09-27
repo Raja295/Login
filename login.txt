@@ -1,0 +1,4 @@
+Please enter your mail or number
+Please enter your password 
+Forgot your password?
+
