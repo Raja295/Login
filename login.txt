@@ -1,4 +1,3 @@
-Please enter your mail or number
-Please enter your password 
-Forgot your password?
-
+print("Please enter your mail or number")
+print("Please enter your password ")
+print("Forgot your password?")
