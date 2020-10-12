@@ -2,4 +2,5 @@ print("Please enter your mail or number")
 print("Please enter your password ")
 print("Forgot your password?")
 
+print("click for register")
 print("Loading")
